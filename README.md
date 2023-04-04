@@ -22,5 +22,5 @@
 <div style="display:flex;">
 <p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiasscriffignano&show_icons=true&locale=en&layout=compact" alt="mathiasscriffignano" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mathiasscriffignano&show_icons=true&locale=en" alt="mathiasscriffignano" /></p><div/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mathiasscriffignano&show_icons=true&locale=en" alt="mathiasscriffignano" /></p><div/>
 
